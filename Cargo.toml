@@ -6,7 +6,7 @@ rust-version = "1.93"
 license = "GPL-3.0-or-later"
 repository = "https://github.com/diegopn/potoo-karel-interpreter"
 readme = "README.md"
-description = "An independent Rust interpreter for the Stanford Java Karel educational programming language."
+description = "A Rust scaffold for a future Stanford Java Karel interpreter."
 
 [lib]
 path = "src/lib.rs"
